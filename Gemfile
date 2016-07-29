@@ -16,6 +16,9 @@ gem 'coffee-rails', '~> 4.2'
 # See https://github.com/rails/execjs#readme for more supported runtimes
 # gem 'therubyracer', platforms: :ruby
 
+gem "bulma-rails", "~> 0.0.28"
+
+gem 'devise'
 
 
 # Use jquery as the JavaScript library
